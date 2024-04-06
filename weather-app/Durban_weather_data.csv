@@ -1,0 +1,20 @@
+Durban,Values
+Temperature,18.51C
+Pressure,1025hPa
+Humidity,81%
+Weather Description,moderate rain
+
+Historical weather data (last 7 days):
+Date,Temperature(C)
+2024-04-05,19.51
+2024-04-04,24.51
+2024-04-03,21.51
+2024-04-02,23.51
+2024-04-01,23.51
+2024-03-31,24.48
+2024-03-30,23.52
+
+Statistics,Temperature(C)
+Average Temperature,22.94
+Median Temperature,23.51
+Mode Temperature,23.51
